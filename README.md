@@ -5,4 +5,4 @@ Taller desarrollado por el **Google Developer Student Club** en colaboración po
 
 ### Insertamos una imagen
 
-![hack](img/womenintech.jpeg)
+![hack](img/hero-img.png)
